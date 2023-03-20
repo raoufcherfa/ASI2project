@@ -8,4 +8,5 @@ pour installer ce projet il suffit de le cloner
 pour utiliser ce projet il suffit de le cloner
 ## contribution
 pour contribuer à ce projet faut appeller Manon et Jobb et Rayane
-
+Ou
+pour contribuer avec selsabil appeller jobb
