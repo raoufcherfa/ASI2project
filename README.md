@@ -7,5 +7,5 @@ pour installer ce projet il suffit de le cloner
 ## utilisation  
 pour utiliser ce projet il suffit de le cloner
 ## contribution
-pour contribuer à ce projet il suffit de le cloner
+pour contribuer à ce projet faut appeller Manon et Jobb et Rayane
 
